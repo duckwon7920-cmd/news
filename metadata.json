@@ -1,0 +1,6 @@
+{
+  "name": "출근 브리핑 2.0",
+  "description": "취업 준비생을 위한 출퇴근 30분 맞춤형 산업 동향 오디오 브리핑 서비스",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
